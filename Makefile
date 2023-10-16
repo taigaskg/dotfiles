@@ -14,7 +14,7 @@ link:
 
 # Set macOS system preferences.
 defaults:
-	.bin/defaults.sh
+	.bin/default.sh
 
 # Install macOS applications.
 .PHONY: brew
